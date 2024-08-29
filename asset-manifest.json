@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/huanyutech/static/css/main.0b11b0c8.css",
-    "main.js": "/huanyutech/static/js/main.bfc5f7de.js",
+    "main.css": "/huanyutech/static/css/main.b6f9d4af.css",
+    "main.js": "/huanyutech/static/js/main.fc6b1783.js",
     "static/media/consultation.svg": "/huanyutech/static/media/consultation.ede9466b3634733f30c8d1a1b7bbe939.svg",
     "static/media/web-dev.svg": "/huanyutech/static/media/web-dev.fd61237124f5b922e412437caf61ea58.svg",
     "static/media/hosting.svg": "/huanyutech/static/media/hosting.b755d3eebb287dde8fcd287cb1d5653e.svg",
@@ -12,11 +12,11 @@
     "static/media/web.svg": "/huanyutech/static/media/web.bceccecdef8e71bd5a8d73effe14fdba.svg",
     "index.html": "/huanyutech/index.html",
     "static/media/hero-bg.svg": "/huanyutech/static/media/hero-bg.c3b4448a16ff1a8da834.svg",
-    "main.0b11b0c8.css.map": "/huanyutech/static/css/main.0b11b0c8.css.map",
-    "main.bfc5f7de.js.map": "/huanyutech/static/js/main.bfc5f7de.js.map"
+    "main.b6f9d4af.css.map": "/huanyutech/static/css/main.b6f9d4af.css.map",
+    "main.fc6b1783.js.map": "/huanyutech/static/js/main.fc6b1783.js.map"
   },
   "entrypoints": [
-    "static/css/main.0b11b0c8.css",
-    "static/js/main.bfc5f7de.js"
+    "static/css/main.b6f9d4af.css",
+    "static/js/main.fc6b1783.js"
   ]
 }
